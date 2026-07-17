@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Vaibhav%20Daspute&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20Developer&descAlignY=58&descSize=17&descColor=bae6fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Vaibhav%20Daspute&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20APPLICATION%20Stack%20Developer&descAlignY=58&descSize=17&descColor=bae6fd" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Solo+Full+Stack+Developer;Built+production+SaaS+from+0+to+launch;React+%7C+Node.js+%7C+AWS+%7C+PostgreSQL;Open+to+full-time+developer+roles" alt="Typing SVG" />
 </div>
