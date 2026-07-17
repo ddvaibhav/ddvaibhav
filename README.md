@@ -60,10 +60,11 @@ const sayedBaqar = {
 
 ### ⚡ SyncMind AI — *Meeting Intelligence Platform*
 > Built solo · Production-deployed · 46 test cases · Full CI/CD
-
 <div align="center">
 
-[![SyncMind AI](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=SyncMind-Ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/ddvaibhav/SyncMind-Ai)
+[![Featured Project](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=REPO_NAME&theme=tokyonight)](https://github.com/ddvaibhav/REPO_NAME)
+
+</div>
 
 </div>
 
