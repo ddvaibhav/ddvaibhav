@@ -1,15 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Vaibhav%20Daspute&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20Developer&descAlignY=58&descSize=17&descColor=bae6fd" />
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Solo+Full+Stack+Developer;Built+production+SaaS+from+0+to+launch;React+%7C+Node.js+%7C+AWS+%7C+PostgreSQL;Open+to+full-time+developer+roles" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%2F%20Cloud%20Developer%20Roles-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Open to Work" />
 </div>
-
 <br/>
-
 <div align="center">
   <a href="https://github.com/ddvaibhav">
     <img src="https://komarev.com/ghpvc/?username=ddvaibhav&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
@@ -27,8 +23,6 @@
     <img src="https://img.shields.io/badge/Email-vaibhavdaspute775%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
 </div>
-
----
 
 ## 🧑‍💻 Who I Am
 
