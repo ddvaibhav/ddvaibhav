@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
-  <a href="mailto:sayedbaqarabbas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sayedbaqarabbas%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
+  <a href="mailto:vaibhavdaspute775@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vaibhavdaspute775%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
 </div>
 
@@ -94,8 +94,6 @@ const sayedBaqar = {
 | **Backend** | AWS Lambda · API Gateway · Serverless architecture |
 | **Auth & Security** | AWS Cognito · KMS (envelope encryption) · Multi-tenant isolation |
 | **Database** | DynamoDB · Single-table design · Partition-key scoped access |
-
-🌐 **Live →** [cloudrecords.live](https://cloudrecords.live) &nbsp; | &nbsp; 📂 **Code →** [github.com/ddvaibhav/cloudrecords](https://github.com/ddvaibhav/cloudrecords)
 
 ---
 
