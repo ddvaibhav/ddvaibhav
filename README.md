@@ -51,11 +51,6 @@ const sayedBaqar = {
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-[![Featured Project](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=Client_Portfolio&theme=tokyonight)](https://github.com/ddvaibhav/Vaibhav_Portfolio-1)
-
 </div>
 
 </div>
@@ -63,7 +58,7 @@ const sayedBaqar = {
 | Layer | Technology |
 |---|---|
 | **Frontend** | React 18 + Vite · Tailwind · Framer Motion · GSAP · Three.js · Zustand · TanStack Query v5 |
-| **Backend** | Node.js · Socket.io (real-time) · BullMQ + Redis (queue) · Prisma + PostgreSQL 16 |
+| **Backend** | Node.js · Socket.io (real-time) · BullMQ + Redis (queue) · Prisma + PostgreSQL|
 | **AI/ML** | Google Gemini AI · Pinecone (vector search) · RAG pipeline |
 | **DevOps** | Docker Compose · GitHub Actions CI/CD · Cloudflare Pages · Railway |
 | **Quality** | Jest · 46 test cases · High coverage |
@@ -74,10 +69,6 @@ const sayedBaqar = {
 
 ### ☁️ CloudRecords — *Serverless Multi-Tenant DBMS*
 > Production-grade · Serverless-first · Zero cold-start architecture
-
-<div align="center">
-
-[![CloudRecords](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=cloudrecords&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/ddvaibhav/cloudrecords)
 
 </div>
 
