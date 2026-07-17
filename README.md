@@ -172,61 +172,6 @@ const sayedBaqar = {
   <img src="https://github-profile-trophy.vercel.app/?username=ddvaibhav&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddvaibhav&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
-</div>
-
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-snake.svg" />
-    <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-  <a href="https://github.com/ddvaibhav">
-    <img src="https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sayed-baqar-abbas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="mailto:sayedbaqarabbas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://syncmindai.live">
-    <img src="https://img.shields.io/badge/syncmindai.live-0a2a3a?style=for-the-badge&logo=lightning&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://cloudrecords.live">
-    <img src="https://img.shields.io/badge/cloudrecords.live-0a2a3a?style=for-the-badge&logo=cloudflare&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/syed__baqar">
-    <img src="https://img.shields.io/badge/Twitter%2FX-0a2a3a?style=for-the-badge&logo=x&logoColor=7dd3fc" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
 </div>
