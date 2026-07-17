@@ -52,11 +52,9 @@ const sayedBaqar = {
 
 ## 🚀 Featured Projects
 
-### ⚡ SyncMind AI — *Meeting Intelligence Platform*
-> Built solo · Production-deployed · 46 test cases · Full CI/CD
 <div align="center">
 
-[![Featured Project](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=REPO_NAME&theme=tokyonight)](https://github.com/ddvaibhav/REPO_NAME)
+[![Featured Project](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=Client_Portfolio&theme=tokyonight)](https://github.com/ddvaibhav/Vaibhav_Portfolio-1)
 
 </div>
 
