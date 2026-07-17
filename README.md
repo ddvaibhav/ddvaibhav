@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/followers/ddvaibhav?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sayed-baqar-abbas/">
+  <a href="https://www.linkedin.com/in/vaibhav-daspute-1015ab277/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
