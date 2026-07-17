@@ -1,25 +1,237 @@
-name: Generate Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,30:2d5a8c,60:0d6efd,100:1e3a5f&height=240&section=header&text=Vaibhav%20Dhyaneshwar&fontSize=58&fontColor=0d9488&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=17&descColor=06b6d4" />
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=0d9488&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Open+to+exciting+web+development+opportunities" alt="Typing SVG" />
+</div>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%2F%20Web%20Developer%20Roles-0d9488?style=for-the-badge&labelColor=1e3a5f&color=0d6efd" alt="Open to Work" />
+</div>
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ddvaibhav
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+<br/>
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <a href="https://github.com/ddvaibhav">
+    <img src="https://komarev.com/ghpvc/?username=ddvaibhav&label=Profile+Views&color=0d9488&style=flat-square&labelColor=1e3a5f" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ddvaibhav?tab=followers">
+    <img src="https://img.shields.io/github/followers/ddvaibhav?label=Followers&style=flat-square&color=0d9488&labelColor=1e3a5f" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ddvaibhav/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d9488?style=flat-square&logo=linkedin&logoColor=0d9488&labelColor=1e3a5f" />
+  </a>
+  &nbsp;
+  <a href="mailto:vaibhav@example.com">
+    <img src="https://img.shields.io/badge/Email-vaibhav%40example.com-0d9488?style=flat-square&logo=gmail&logoColor=0d9488&labelColor=1e3a5f" />
+  </a>
+</div>
+
+---
+
+## 🧑‍💻 Who I Am
+
+<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```typescript
+const vaibhavDhyaneshwar = {
+  title:    "Full Stack Web Developer (MERN Specialist)",
+  stack:    {
+    frontend: ["React 18", "JavaScript ES6+", "Tailwind CSS", "HTML5", "CSS3"],
+    backend:  ["Node.js", "Express.js", "RESTful APIs"],
+    database: ["MongoDB", "PostgreSQL"],
+    tools:    ["Git", "GitHub", "VS Code", "Postman"],
+  },
+  projects: [
+    "Masala Webpages - Ecommerce Platform",
+    "Pandurang Transport - Transport Management",
+  ],
+  expertise: "Building responsive, user-friendly full-stack applications",
+  passionate: ["Clean Code", "UI/UX", "Problem Solving", "Performance Optimization"],
+  openTo:   "Full-time opportunities - Remote, Pune, Bangalore",
+}
+```
+
+<br clear="right"/>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Masala Webpages — *Ecommerce Platform*
+> Production-ready · Full-stack MERN · User authentication · Payment integration
+
+<div align="center">
+
+[![Masala Webpages](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=masale-webpages&theme=blueberry&border_color=0d9488&title_color=0d9488&icon_color=0d9488&text_color=06b6d4&bg_color=1e3a5f)](https://github.com/ddvaibhav/masale-webpages)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| **Frontend** | React 18 · Tailwind CSS · Responsive Design · State Management |
+| **Backend** | Node.js · Express · RESTful APIs · Middleware |
+| **Database** | MongoDB · Schema Design · Data Validation |
+| **Features** | User Auth · Product Catalog · Shopping Cart · Order Processing |
+
+---
+
+### 🚌 Pandurang Transport — *Transport Management System*
+> Real-time tracking · Booking system · Route management
+
+<div align="center">
+
+[![Pandurang Transport](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=pandurang-transport&theme=blueberry&border_color=0d9488&title_color=0d9488&icon_color=0d9488&text_color=06b6d4&bg_color=1e3a5f)](https://github.com/ddvaibhav/pandurang-transport)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| **Frontend** | React.js · Tailwind CSS · Real-time UI |
+| **Backend** | Node.js · Express · Socket.io |
+| **Database** | MongoDB · Geospatial Queries |
+| **Features** | Real-time Tracking · Booking · Route Optimization |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+</p>
+
+### Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white&labelColor=1e3a5f" height="46" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=0d9488&labelColor=1e3a5f" height="46" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddvaibhav&show_icons=true&theme=blueberry&border_color=0d9488&title_color=0d9488&icon_color=0d9488&text_color=06b6d4&bg_color=1e3a5f&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddvaibhav&layout=compact&theme=blueberry&border_color=0d9488&title_color=0d9488&text_color=06b6d4&bg_color=1e3a5f&hide_border=false&langs_count=8" height="170" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ddvaibhav&theme=blueberry&background=1e3a5f&border=0d9488&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&sideLabels=0d9488&dates=2d5a8c&currStreakNum=06b6d4&sideNums=06b6d4" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ddvaibhav&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddvaibhav&bg_color=1e3a5f&color=0d9488&line=0d9488&point=06b6d4&area=true&hide_border=false&border_color=0d9488&area_color=0d6efd" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake"
+         src="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 💻 What I'm Good At
+
+| Skill | Proficiency |
+|-------|-------------|
+| **JavaScript/ES6+** | ⭐⭐⭐⭐⭐ |
+| **React.js** | ⭐⭐⭐⭐⭐ |
+| **Node.js & Express** | ⭐⭐⭐⭐ |
+| **MongoDB** | ⭐⭐⭐⭐ |
+| **HTML/CSS** | ⭐⭐⭐⭐⭐ |
+| **RESTful APIs** | ⭐⭐⭐⭐ |
+| **Problem Solving** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 🎯 What I'm Working On
+
+✅ **Currently:**
+- Building scalable full-stack applications
+- Improving backend architecture and performance
+- Contributing to open-source projects
+
+🌱 **Learning:**
+- Advanced React patterns and optimization
+- System design and architecture
+- Cloud deployment (Heroku, Vercel, AWS)
+- TypeScript for better code quality
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/ddvaibhav">
+    <img src="https://img.shields.io/badge/GitHub-ddvaibhav-1e3a5f?style=for-the-badge&logo=github&logoColor=0d9488" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ddvaibhav/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=0d9488" />
+  </a>
+  &nbsp;
+  <a href="mailto:vaibhav@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-1e3a5f?style=for-the-badge&logo=gmail&logoColor=0d9488" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/ddvaibhav">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1e3a5f?style=for-the-badge&logo=x&logoColor=0d9488" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+</div>
+
+---
+
+## 📝 Random Dev Quote
+
+```
+"Clean code is readable code. Good code is maintainable code."
+```
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,30:2d5a8c,60:0d6efd,100:1e3a5f&height=120&section=footer&animation=fadeIn" />
