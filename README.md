@@ -11,12 +11,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/syedbaqar25">
-    <img src="https://komarev.com/ghpvc/?username=syedbaqar25&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
+  <a href="https://github.com/ddvaibhav">
+    <img src="https://komarev.com/ghpvc/?username=ddvaibhav&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
   </a>
   &nbsp;
-  <a href="https://github.com/syedbaqar25?tab=followers">
-    <img src="https://img.shields.io/github/followers/syedbaqar25?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
+  <a href="https://github.com/ddvaibhav?tab=followers">
+    <img src="https://img.shields.io/github/followers/ddvaibhav?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sayed-baqar-abbas/">
@@ -63,7 +63,7 @@ const sayedBaqar = {
 
 <div align="center">
 
-[![SyncMind AI](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=SyncMind-Ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/syedbaqar25/SyncMind-Ai)
+[![SyncMind AI](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=SyncMind-Ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/ddvaibhav/SyncMind-Ai)
 
 </div>
 
@@ -75,7 +75,7 @@ const sayedBaqar = {
 | **DevOps** | Docker Compose · GitHub Actions CI/CD · Cloudflare Pages · Railway |
 | **Quality** | Jest · 46 test cases · High coverage |
 
-🌐 **Live →** [syncmindai.live](https://syncmindai.live) &nbsp; | &nbsp; 📂 **Code →** [github.com/syedbaqar25/SyncMind-Ai](https://github.com/syedbaqar25/SyncMind-Ai)
+🌐 **Live →** [syncmindai.live](https://syncmindai.live) &nbsp; | &nbsp; 📂 **Code →** [github.com/ddvaibhav/SyncMind-Ai](https://github.com/ddvaibhav/SyncMind-Ai)
 
 ---
 
@@ -84,7 +84,7 @@ const sayedBaqar = {
 
 <div align="center">
 
-[![CloudRecords](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=cloudrecords&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/syedbaqar25/cloudrecords)
+[![CloudRecords](https://github-readme-stats.vercel.app/api/pin/?username=ddvaibhav&repo=cloudrecords&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/ddvaibhav/cloudrecords)
 
 </div>
 
@@ -95,7 +95,7 @@ const sayedBaqar = {
 | **Auth & Security** | AWS Cognito · KMS (envelope encryption) · Multi-tenant isolation |
 | **Database** | DynamoDB · Single-table design · Partition-key scoped access |
 
-🌐 **Live →** [cloudrecords.live](https://cloudrecords.live) &nbsp; | &nbsp; 📂 **Code →** [github.com/syedbaqar25/cloudrecords](https://github.com/syedbaqar25/cloudrecords)
+🌐 **Live →** [cloudrecords.live](https://cloudrecords.live) &nbsp; | &nbsp; 📂 **Code →** [github.com/ddvaibhav/cloudrecords](https://github.com/ddvaibhav/cloudrecords)
 
 ---
 
@@ -153,15 +153,15 @@ const sayedBaqar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedbaqar25&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddvaibhav&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedbaqar25&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddvaibhav&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=syedbaqar25&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" />
+  <img src="https://streak-stats.demolab.com?user=ddvaibhav&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" />
 </div>
 
 ---
@@ -169,7 +169,7 @@ const sayedBaqar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedbaqar25&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ddvaibhav&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
@@ -177,7 +177,7 @@ const sayedBaqar = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedbaqar25&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddvaibhav&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
 </div>
 
 ---
@@ -187,11 +187,11 @@ const sayedBaqar = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/github-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/github-snake.svg" />
+            srcset="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-snake.svg" />
     <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/github-snake-dark.svg" />
+         src="https://raw.githubusercontent.com/ddvaibhav/ddvaibhav/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -200,7 +200,7 @@ const sayedBaqar = {
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://github.com/syedbaqar25">
+  <a href="https://github.com/ddvaibhav">
     <img src="https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
   </a>
   &nbsp;
